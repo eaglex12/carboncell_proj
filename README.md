@@ -1,6 +1,6 @@
 # Technical Assessment Repository
 
-This repository contains the solutions for the tasks provided in a technical assessment. 
+This repository contains the solutions for the tasks provided in a technical assessment. This site is whole responsive..
 
 ## Submission
 - The code for all tasks is available in this repository.
